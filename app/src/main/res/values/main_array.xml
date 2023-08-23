@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Первые блюда</item>
+        <item>Мясное</item>
+        <item>Гарнир</item>
+        <item>Салаты</item>
+        <item>Десерты</item>
+        <item>Закуски</item>
+        <item>Напитки</item>
+    </string-array>
+
+    <string-array name="first">
+        <item>Борщ|borsh.jpg|borsh.html</item>
+        <item>Солянка|solyanka.png|solyanka.html</item>
+        <item>Куриный суп|soup_chiken.jpeg|soup_chiken.html</item>
+    </string-array>
+
+    <string-array name="meet">
+        <item>Ципленок|chiken.jpeg|chiken.html</item>
+        <item>Стейк свиной|pig.jpg|pig.html</item>
+        <item>Стейк рыбный|fish.jpg|fish.html</item>
+    </string-array>
+
+    <string-array name="garnir">
+        <item>Картофель-пюре|pure.jpg|pure.html</item>
+        <item>Рис отварной|rice.jpg|rice.html</item>
+        <item>Овощи на гриле|veg.jpg|veg.html</item>
+    </string-array>
+
+    <string-array name="salat">
+        <item>Цезарь с креветками|cezar.jpg|cezar.html</item>
+        <item>Греческий салат|grech_salat.jpg|grech_salat.html</item>
+        <item>Оливье|olivie.jpg|olivie.html</item>
+    </string-array>
+
+    <string-array name="deserts">
+        <item>Клубничный чизкейк|chees.jpg|chees.html</item>
+        <item>Французские вафли|frenh_vafli.jpg|french_vafli.html</item>
+        <item>Тирамису|tiramisu.png|tiramisu.html</item>
+    </string-array>
+
+    <string-array name="zakusky">
+        <item>Сендвич с вечиной|buter.jpg|buter.html</item>
+        <item>Шаурма с курицей|shaurma.jpg|shaurma.html</item>
+        <item>Мясное ассорти|meet.png|meet.html</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Мохито|mohito.png|mohito.html</item>
+        <item>Апельсиновый лимонад|orange.png|orange.html</item>
+        <item>Пинаколада|pinacolada.jpg|pinacolada.html</item>
+    </string-array>
+
+</resources>
